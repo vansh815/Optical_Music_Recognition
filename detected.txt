@@ -1,0 +1,48 @@
+58 108 11 17 filled_note G 0.82
+150 978 11 17 filled_note G 0.82
+168 458 11 17 filled_note D 0.82
+150 543 11 17 filled_note G 0.87
+134 892 11 17 filled_note C 0.86
+150 108 11 17 filled_note G 0.86
+133 459 11 17 filled_note C 0.83
+76 579 11 17 filled_note D 0.86
+48 422 11 17 filled_note B 0.83
+58 1081 11 17 filled_note G 0.84
+35 318 11 17 filled_note D 0.83
+168 892 11 17 filled_note D 0.83
+46 649 11 17 filled_note B 0.82
+46 248 11 17 filled_note B 0.87
+76 142 11 17 filled_note D 0.87
+48 492 11 17 filled_note B 0.87
+36 823 11 17 filled_note D 0.86
+86 1081 11 17 filled_note C 0.82
+190 1081 11 17 filled_note G 0.82
+138 108 11 17 filled_note B 0.83
+46 178 11 17 filled_note B 0.82
+138 978 11 17 filled_note B 0.82
+58 718 11 17 filled_note G 0.82
+35 388 11 17 filled_note D 0.87
+35 788 11 17 filled_note D 0.85
+36 753 11 17 filled_note D 0.87
+36 352 11 17 filled_note D 0.86
+59 282 11 17 filled_note G 0.83
+53 892 11 17 filled_note A 0.85
+58 544 11 17 filled_note G 0.83
+46 858 11 17 filled_note B 0.82
+138 544 11 17 filled_note B 0.83
+46 614 11 17 filled_note B 0.84
+46 213 11 17 filled_note B 0.83
+46 927 11 17 filled_note B 0.84
+48 683 11 17 filled_note B 0.84
+53 458 11 17 filled_note A 0.83
+58 978 11 17 filled_note G 0.86
+32 1158 36 16 quarter_rest 0.83
+153 1157 36 16 quarter_rest 0.86
+153 680 36 16 quarter_rest 0.86
+153 244 36 16 quarter_rest 0.82
+36 1026 30 18 eighth_rest 0.68
+157 821 30 18 eighth_rest 0.66
+157 385 30 18 eighth_rest 0.7
+145 49 30 18 eighth_rest 0.7
+157 1026 30 18 eighth_rest 0.7
+0 36 94 34 treble_clef 0.59
