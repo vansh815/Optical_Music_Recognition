@@ -1,4 +1,4 @@
-# Assignment 1 : Optical Music Recognition 
+#  Optical Music Recognition 
 
 User Name : hrajash, jp109, mmanurn, vanshah
 
