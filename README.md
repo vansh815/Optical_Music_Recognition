@@ -1,7 +1,5 @@
 #  Optical Music Recognition 
 
-User Name : hrajash, jp109, mmanurn, vanshah
-
 ## How to run the code : 
 
 ```
